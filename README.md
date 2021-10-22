@@ -11,7 +11,7 @@ QBCore version can be found here : [Alen-FIB](https://github.com/iAlen17/Alen-FI
 ![](images-preview/preview.png)
 
 Instructions : 
-1. Download the file take the item image into qb-inventory/html/img
+1. Download the file take the item image into your inventory's html directory
 
 2. Add an item printedcash to your database
 
