@@ -6,7 +6,7 @@ Preview : https://youtu.be/MCHQgjdTLzU
 A little FIB Heist Mission for QBCore 
 
 
-QBCore version can be found here : github.com/iAlen17/Alen-FIB
+QBCore version can be found here : [a link](https://github.com/iAlen17/Alen-FIB)
 
 ![](images-preview/preview.png)
 
