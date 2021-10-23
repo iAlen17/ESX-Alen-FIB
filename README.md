@@ -41,4 +41,4 @@ Keymaster Minigame : https://github.com/dsheedes/cd_keymaster
 
 Fingerprint Minigame : https://github.com/utkuali/Finger-Print-Hacking-Game
 
-For the ESX version is notification is currently set to mythic notify you can very easily change to your desired one. 
+For the ESX version notification is currently set to mythic notify you can very easily change to your desired one. 
