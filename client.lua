@@ -239,9 +239,6 @@ function NYIpl()
         RemoveIpl("prologue_m2_door") 
       end
 
-    RegisterCommand('nytest', function()
-      SpawnAirportVehicle()
-end, false)
 
       function SpawnGetAwayVehicle()
         ESX.Game.SpawnVehicle(Config['HeistVeh'], vector3(5353.5063, -5207.545, 82.773582), 6.9132146, function(vehicle)
