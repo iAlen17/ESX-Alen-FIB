@@ -45,11 +45,6 @@ Config = {
             {pos = vector3(114.08854, -740.7044, 242.15219), heading = 198.01211, ped = 's_m_m_chemsec_01'},
             {pos = vector3(121.72486, -739.1644, 242.15219), heading = 155.41575, ped = 's_m_m_chemsec_01'},
             {pos = vector3(126.87366, -730.3227, 242.15197), heading = 69.755676, ped = 's_m_m_chemsec_01'},
-
-
-            {pos = vector3(5450.1015, -5205.519, 78.856681), heading = 171.6372, ped = 'a_f_m_prolhost_01'},
-            {pos = vector3(-938.6571, -2932.306, 13.945069), heading = 320.43283, ped = 'a_m_y_hasjew_01'},
-            {pos = vector3(5361.1386, -5179.498, 82.770988), heading = 77.337684, ped = 'a_m_m_og_boss_01'},
         }
     },
 
