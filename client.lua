@@ -61,7 +61,6 @@ Citizen.CreateThread(function()
 
     RequestModel(-1275859404)
     fibpedone = CreatePed(30, -1275859404, 119.42137, -761.3185, 242.15206, 267.51391, true, false)
-    --CreatePed(30, fibpedone, 583.54, -3117.87, 19.00, 88.00, true, false)
     SetPedArmour(fibpedone, 100)
     SetPedAsEnemy(fibpedone, true)
     SetPedRelationshipGroupHash(fibpedone, 'FIBHeist')
